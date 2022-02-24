@@ -1,0 +1,24 @@
+{
+  "name": "codingame",
+  "version": "1.0.0",
+  "description": "To sync with codingame extension",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frederico-kluser/codingame.git"
+  },
+  "author": "Frederico Guilherme Kluser de Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frederico-kluser/codingame/issues"
+  },
+  "homepage": "https://github.com/frederico-kluser/codingame#readme",
+  "devDependencies": {
+    "eslint": "^8.9.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.4"
+  }
+}
